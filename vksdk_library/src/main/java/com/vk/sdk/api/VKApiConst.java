@@ -34,6 +34,9 @@ public class VKApiConst {
     public static final String COUNT = "count";
     public static final String OWNER_ID = "owner_id";
 
+    public static final String START_FROM = "start_from";
+
+
     //auth
     public static final String VERSION = "v";
     public static final String HTTPS = "https";
